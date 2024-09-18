@@ -1,1 +1,3 @@
-# Medical-Chatbot-using-LLAMA2
+# Agricultural-Chatbot-using-LLAMA2 
+We have tried to build a chatbot using our Medical Chatbot....
+CropGurus basic coding will be same just it will be trained on a different set of books.
